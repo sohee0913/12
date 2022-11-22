@@ -1,3 +1,6 @@
+#define N_SIZE			5
+#define BINGO_NUMSTATUS_ABSENT  -1
+#define BINGO_NUMSTATUS_PRESENT 0 
 
 void bingo_init(void);
 void bingo_print(void);
